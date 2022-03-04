@@ -18,21 +18,21 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Rohis-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ RohisGanz ×፝֟͜×" //nama kalian
+global.botname = "Ikybot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ RIZKI ×፝֟͜×" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "gamingrohis@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA" //bebas asal jan hapus
+global.github = "https://github.com/rizkiwibu" //bebas
+global.email = "emailtanyaowner@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6287773104099" // nomor wa kalian
-global.ownernomerr = "+6287773104099" //nmr wa kalian
+global.ownernomer = "6283817161861" // nomor wa kalian
+global.ownernomerr = "+6283817161861" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6287773104099","6287773104099","6287773104099"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Rohis-Mdོ🗿' //sticker wm ubah
-global.author = 'Rohis' //sticker wm ganti nama kalian
+global.owner = ["6283817161861","6283817161861","6283817161861"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Ikybot-Mdོ🗿' //sticker wm ubah
+global.author = 'Rizkibot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
